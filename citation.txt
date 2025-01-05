@@ -1,0 +1,9 @@
+@inproceedings{REPO366,
+    author = "Barrett, Thomas and Clements, William and Foerster, Jakob and Lvovsky, Alex",
+    booktitle = "Proceedings of the AAAI conference on artificial intelligence",
+    number = "04",
+    pages = "3243--3250",
+    title = "{Exploratory combinatorial optimization with reinforcement learning}",
+    volume = "34",
+    year = "2020"
+}
